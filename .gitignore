@@ -1,2 +1,5 @@
 # dependencies
 node_modules
+
+#Log npm
+npm-debug.log
